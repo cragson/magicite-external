@@ -1,0 +1,3 @@
+[submodule "magicite-external/osmium"]
+	path = magicite-external/osmium
+	url = git@github.com:cragson/osmium
